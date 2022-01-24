@@ -1,2 +1,1 @@
-# Arduino-Smoke-Detector
-Arduino Smoke Detector
+Please change the "value"
